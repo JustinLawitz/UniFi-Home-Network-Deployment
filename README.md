@@ -32,6 +32,7 @@ Step 2:
 The next step was to set up the router through the Unifi app. After the router was powered on and detected by the app, I set up the router’s SSID (Service Set Identifier) which is the Wi-fi network’s name and entered a password to access the Wi-fi. After the router was set up, I was able to view and edit settings, activity on the network, and more on the app and browser (Figure 5).
 
 <img width="357" height="776" alt="image" src="https://github.com/user-attachments/assets/ddfdfa7e-70bb-4ab4-a36e-e00b66f57437" /><img width="356" height="774" alt="image" src="https://github.com/user-attachments/assets/d3fd7408-e329-44a2-9ba6-9622c2be74dd" />
+
 Figure 5: Wi-Fi Setup, settings, and network activity
 
 Step 3:
@@ -49,6 +50,7 @@ Step 4:
 After successfully connecting the PoE injector and AP, I next had to set it up in the app. After it was detected, I was able to connect and onboard it after a short update. After this update the AP was online and operational (Figure 8).
 
 <img width="363" height="788" alt="image" src="https://github.com/user-attachments/assets/98e91e5e-33ad-404c-95b5-5eda9cc54671" /><img width="363" height="788" alt="image" src="https://github.com/user-attachments/assets/0373287e-2c0c-4011-8ee4-59c0e024e890" />
+
 Figure 8: AP setup
 
 Step 5:
